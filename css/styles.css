@@ -2,6 +2,18 @@
 YOUR STYLES
 *******************/
 
+h1{
+    
+    color: tomato;
+    font-family: avenir next;
+    letter-spacing: .5em;
+  
+}
+
+.char23 {
+    transform: rotate(45deg);
+    display: inline-block;
+}
 
 
 
